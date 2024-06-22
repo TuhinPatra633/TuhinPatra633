@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuhin Patra</h1>
 <h3 align="center">A passionate data science student from India</h3>
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3c62a9da-9b8e-45ed-9a10-4a02c3703785/dfse9y5-7d3a0baf-3f4f-484b-9d02-d775cb5c4f2b.jpg/v1/fill/w_1280,h_1814,q_75,strp/chill_mario_2023_ver__by_pixeljeff_dfse9y5-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjNjJhOWRhLTliOGUtNDVlZC05YTEwLTRhMDJjMzcwMzc4NVwvZGZzZTl5NS03ZDNhMGJhZi0zZjRmLTQ4NGItOWQwMi1kNzc1Y2I1YzRmMmIuanBnIiwiaGVpZ2h0IjoiPD0xODE0Iiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.eQzmXSgTlgFc0WuyIihH2ldwmMh22Hbsk6jct40_lzg" alt="Chill Mario" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3c62a9da-9b8e-45ed-9a10-4a02c3703785/dfse9y5-7d3a0baf-3f4f-484b-9d02-d775cb5c4f2b.jpg/v1/fill/w_1280,h_1814,q_75,strp/chill_mario_2023_ver__by_pixeljeff_dfse9y5-fullview.jpg" alt="Chill Mario" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
