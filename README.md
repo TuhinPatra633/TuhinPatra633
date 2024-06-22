@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuhin Patra</h1>
 <h3 align="center">A passionate data science student from India</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Chill Mario" width="800" style="display: block; margin-left: auto; margin-right: auto; height: 300px; width: 100%;">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Chill Mario"  width="800" style="display: block; margin-left: auto; margin-right: auto; height: 300px; width: 100%;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinpatra633&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
@@ -48,21 +48,19 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1;">
-    ## 📈 GitHub Stats
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tuhinpatra633&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  </div>
-  <div style="flex: 1;">
-    ## 🚀 Current Projects
-    - [Project 1](https://github.com/tuhinpatra633/project1) - Brief description of Project 1
-    - [Project 2](https://github.com/tuhinpatra633/project2) - Brief description of Project 2
-  </div>
-</div>
+## 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tuhinpatra633&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<div style="clear: both;"></div>
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuhinpatra633&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<div style="text-align: center;">
-  ## GitHub Streak
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuhinpatra633" alt="GitHub Streak" />
-</div>
+</p>
+
+## 🚀 Current Projects
+- [Project 1](https://github.com/tuhinpatra633/project1) - Brief description of Project 1
+- [Project 2](https://github.com/tuhinpatra633/project2) - Brief description of Project 2
