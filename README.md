@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tuhin Patra</h1>
 <h3 align="center">A passionate data science student from India</h3>
 
+<img src="https://source.unsplash.com/random/800x600/?coding,technology" alt="Coding" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinpatra633&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
@@ -56,12 +58,3 @@
 ## 🚀 Current Projects
 - [Project 1](https://github.com/tuhinpatra633/project1) - Brief description of Project 1
 - [Project 2](https://github.com/tuhinpatra633/project2) - Brief description of Project 2
-
-## 💡 Contributions
-<p align="left">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tuhinpatra633&bg_color=ffffff&color=000000&line=00e676&point=000000&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
-## 🏆 Achievements
-- 🥇 [Achievement 1](https://example.com) - Brief description of Achievement 1
-- 🥈 [Achievement 2](https://example.com) - Brief description of Achievement 2
