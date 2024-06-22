@@ -49,17 +49,19 @@
 </p>
 
 ## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tuhinpatra633&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tuhinpatra633&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=tuhinpatra633&show_icons=true&locale=en" alt="GitHub Stats" />
+  </div>
+</div>
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuhinpatra633&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="left">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuhinpatra633" alt="GitHub Streak" />
-</p>
+</div>
+
 
 ## 🚀 Current Projects
 - [Project 1](https://github.com/tuhinpatra633/project1) - Brief description of Project 1
