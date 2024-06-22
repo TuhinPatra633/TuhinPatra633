@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuhin Patra</h1>
 <h3 align="center">A passionate data science student from India</h3>
 
-<img src="https://source.unsplash.com/random/800x600/?coding,technology" alt="Coding" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img src=["https://source.unsplash.com/random/800x600/?coding,technology](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fpixeljeff%2Fart%2FChill-Mario-2023-ver-953012885&psig=AOvVaw3qfcgJ_9cBXNAUNtYEiqdH&ust=1719134899791000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCaztry7oYDFQAAAAAdAAAAABAR)" alt="Coding" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
