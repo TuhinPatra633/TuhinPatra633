@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinpatra633&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m currently learning **Data Science, Machine Learning and Transformer Architecture**
 - 💬 Ask me about **Python, Pandas, Scikit-Learn, MySQL**
-- 📫 How to reach me **tuhinpatra@example.com**
-- ⚡ Fun fact **I love to play chess and solve puzzles**
+- 📫 How to reach me **patra.tuhin2020@gmail.com**
+- ⚡ Fun fact **I love to play football and solve puzzles**
 
 ## 🌐 Connect with Me
 <p align="left">
@@ -64,5 +64,5 @@
 
 
 ## 🚀 Current Projects
-- [Project 1](https://github.com/tuhinpatra633/project1) - Brief description of Project 1
-- [Project 2](https://github.com/tuhinpatra633/project2) - Brief description of Project 2
+- [Project 1](https://github.com/TuhinPatra633/Sparkling-Water-Delivery-Time-Prediction) - This project aims to predict delivery time on Zomato using a distributed computing approach with Sparkling Water, a framework by H2O.ai that integrates H2O’s machine learning capabilities with Apache Spark. By leveraging the power of a multinode Spark cluster, we can efficiently handle large datasets and complex computations, ensuring faster processing and model training.
+- [Project 2](https://github.com/TuhinPatra633/Career-Prediction-Using-Machine-Learning) - This project aims to leverage machine learning to offer personalized career guidance to students, especially those in rural areas who lack access to traditional counseling services. By analyzing data points such as academic performance, skills, and interests, the ML model provides tailored career recommendations.
