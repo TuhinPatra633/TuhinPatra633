@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuhin Patra</h1>
 <h3 align="center">A passionate data science student from India</h3>
 
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="Chill Mario"  width="400" style="display: block; margin-left: auto; margin-right: auto; width: 400%;">
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="Chill Mario"  width="800" style="display: block; margin-left: auto; margin-right: auto; width: 400%;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinpatra633&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
