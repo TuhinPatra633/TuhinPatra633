@@ -5,13 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinpatra633&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+
 
 ## 👨‍💻 About Me
 - 🌱 I’m currently learning **Data Science, Machine Learning and Transformer Architecture**
 - 💬 Ask me about **Python, Pandas, Scikit-Learn, MySQL**
 - 📫 How to reach me **patra.tuhin2020@gmail.com**
 - ⚡ Fun fact **I love to play football and solve puzzles**
+
+<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
 ## 🌐 Connect with Me
 <p align="left">
